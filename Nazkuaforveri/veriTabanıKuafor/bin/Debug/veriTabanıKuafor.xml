@@ -1,0 +1,391 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+veriTabanıKuafor
+</name>
+</assembly>
+<members>
+<member name="T:veriTabanıKuafor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._1075437_fav_heart_favourite_love_bange_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._1234">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._3669368_content_cut_ic_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._72313">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._8396408_floppydisk_diskette_disk_save_file_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._8396408_floppydisk_diskette_disk_save_file_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._9043601_save_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources._9043601_save_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.aa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.bb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.ccc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.cklp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.crtoon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.crtoon3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.crtoon4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.crtoon5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.crtoonkes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.düz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.hair">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.hh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.ii">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.ikili">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.ikili2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.ikiliii">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.istockphoto_1246328123_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.jpg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.kes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.kes2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.kess">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.klp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.kullan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.p">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.pembe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.persKayıt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.persKayıt1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.persKayıt12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.pmbe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.resim1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.sac">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.sonuncu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.WhatsApp_Görsel_2023_12_18_saat_20_55_23_04e1fb8f">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.WhatsApp_Görsel_2023_12_18_saat_20_55_30_2aac0e3d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.WhatsApp_Görsel_2023_12_18_saat_20_55_31_e09160ed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.WhatsApp_Görsel_2023_12_18_saat_20_55_32_573b0490">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.WhatsApp_Görsel_2023_12_18_saat_20_55_33_845abcd0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:veriTabanıKuafor.My.Resources.Resources.YİLDİZ">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.ModelBilgiTablosuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.MusteriTablosuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.PersonelTablosuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.RandevuTablosuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.ModelBilgiTablosuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.MusteriTablosuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.PersonelTablosuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.RandevuTablosuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.ModelBilgiTablosuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.MusteriTablosuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.PersonelTablosuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1.RandevuTablosuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.ModelBilgiTablosuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.MusteriTablosuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.PersonelTablosuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.RandevuTablosuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(veriTabanıKuafor.kuaforVtDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(veriTabanıKuafor.kuaforVtDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(veriTabanıKuafor.kuaforVtDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.UpdateAll(veriTabanıKuafor.kuaforVtDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:veriTabanıKuafor.kuaforVtDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

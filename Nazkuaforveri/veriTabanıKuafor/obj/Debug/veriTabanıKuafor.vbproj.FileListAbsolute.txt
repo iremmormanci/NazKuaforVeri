@@ -1,0 +1,44 @@
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.exe.config
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.exe
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.pdb
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.xml
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.Form1.resources
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.modelFormu.resources
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.musteriformu.resources
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.Resources.resources
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.personelformu.resources
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.randevuformu.resources
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.exe
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.xml
+C:\Users\BIP\Desktop\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.pdb
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.AssemblyReference.cache
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.anaform.resources
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.modelFormu.resources
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.musteriformu.resources
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.Resources.resources
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.personelformu.resources
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.randevuformu.resources
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.GenerateResource.cache
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.CoreCompileInputs.cache
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.exe
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.xml
+D:\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.pdb
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.AssemblyReference.cache
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.anaform.resources
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.modelFormu.resources
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.musteriformu.resources
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.Resources.resources
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.personelformu.resources
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.randevuformu.resources
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.GenerateResource.cache
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.vbproj.CoreCompileInputs.cache
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.exe
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.xml
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\obj\Debug\veriTabanıKuafor.pdb
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.exe.config
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.exe
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.pdb
+C:\verri tabanı projeleri\veriTabanıKuafor\veriTabanıKuafor\bin\Debug\veriTabanıKuafor.xml
